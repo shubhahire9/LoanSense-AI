@@ -125,23 +125,8 @@ LoanSense-AI/
 │
 ├── LoanSense_AI.ipynb
 ├── README.md
-└── images/
-    ├── correlation_heatmap.png
-    ├── confusion_matrix.png
+
 ```
-
----
-
-## Screenshots
-
-### Correlation Heatmap
-
-![Correlation Heatmap](images/correlation_heatmap.png)
-
-### Confusion Matrix
-
-![Confusion Matrix](images/confusion_matrix.png)
-
 ---
 
 ## Author
